@@ -1,8 +1,6 @@
-// src/components/Navbar.jsx
-
 import { useState } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi';
-import logo from './assets/logo.png'
+import logo from '../assets/logo.png'
 
 const Navbar = () => {
   const [navOpen, setNavOpen] = useState(false);
