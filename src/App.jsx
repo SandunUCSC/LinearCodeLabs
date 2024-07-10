@@ -13,7 +13,7 @@ function App() {
     <div>
       <Navbar />
       <Hero />  
-     <About />
+    
       <Services />
       <WhyChooseUs />
       <Inquiry />
