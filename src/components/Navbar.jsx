@@ -10,7 +10,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="p-4 text-white bg-[#02001A] sticky top-0">
+    <nav className="p-4 text-white bg-[#02001A] sticky top-0 z-50">
       <div className="container flex items-center justify-between mx-auto">
         <div><img className='h-5 md:h-7' src={logo}/></div>
         <div className="hidden space-x-6 md:flex">
